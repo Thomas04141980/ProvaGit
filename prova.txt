@@ -3,3 +3,5 @@ codice 2
 codice 3
 codice 4
 codice 5
+codice 6
+codice 7
